@@ -1,0 +1,15 @@
+/Users/Dan1/Desktop/PersonalProjects/C#/bin/Debug/net7.0/C#
+/Users/Dan1/Desktop/PersonalProjects/C#/bin/Debug/net7.0/C#.deps.json
+/Users/Dan1/Desktop/PersonalProjects/C#/bin/Debug/net7.0/C#.runtimeconfig.json
+/Users/Dan1/Desktop/PersonalProjects/C#/bin/Debug/net7.0/C#.dll
+/Users/Dan1/Desktop/PersonalProjects/C#/bin/Debug/net7.0/C#.pdb
+/Users/Dan1/Desktop/PersonalProjects/C#/obj/Debug/net7.0/C#.csproj.AssemblyReference.cache
+/Users/Dan1/Desktop/PersonalProjects/C#/obj/Debug/net7.0/C#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Dan1/Desktop/PersonalProjects/C#/obj/Debug/net7.0/C#.AssemblyInfoInputs.cache
+/Users/Dan1/Desktop/PersonalProjects/C#/obj/Debug/net7.0/C#.AssemblyInfo.cs
+/Users/Dan1/Desktop/PersonalProjects/C#/obj/Debug/net7.0/C#.csproj.CoreCompileInputs.cache
+/Users/Dan1/Desktop/PersonalProjects/C#/obj/Debug/net7.0/C#.dll
+/Users/Dan1/Desktop/PersonalProjects/C#/obj/Debug/net7.0/refint/C#.dll
+/Users/Dan1/Desktop/PersonalProjects/C#/obj/Debug/net7.0/C#.pdb
+/Users/Dan1/Desktop/PersonalProjects/C#/obj/Debug/net7.0/C#.genruntimeconfig.cache
+/Users/Dan1/Desktop/PersonalProjects/C#/obj/Debug/net7.0/ref/C#.dll
